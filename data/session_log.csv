@@ -1,3 +1,5 @@
 date,session_no,module,lesson,lesson_version,step,skill_id,outcome,confidence,minutes,est_minutes,gap_type,note
 2026-10-03,1,M0,M0-L1,v1,1,TECH-01,U,3,,10,none,Read status/log/remote correctly. Spotted 3 new zip files. Clarified: untracked is not the same as staged
 2026-10-03,1,M0,M0-L1,v1,2,TECH-01,U,2,15,10,none,Public status correct. Named client data and .env. Added detail: .vscode/ and .qbo/.qbw. Chose to gitignore skill zips
+2026-10-03,1,M0,M0-L1,v1,3,TECH-01,H,2,,20,tool,Real change: gitignore zips + commit + push done. Hints on command syntax and on PII check (verified file: no PII). Minutes not recorded
+2026-10-03,1,M0,M0-L1,v1,4,TECH-01,H,3,,10,concept,Explain-back: push and .gitignore correct. Commit first described as 'execute'; after 1 hint gave clear save-game / restore-point analogy
