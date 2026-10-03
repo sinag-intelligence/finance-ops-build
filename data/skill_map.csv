@@ -1,0 +1,39 @@
+skill_id,area,name,module,core,mastery,evidence,last_practiced,next_review,gap_type
+TECH-01,Tech,Git and GitHub basics (commit push),M0,yes,0,,,,none
+TECH-02,Tech,Terminal and Claude Code basics,M0,yes,0,,,,none
+TECH-03,Tech,VS Code and file structure,M0,yes,0,,,,none
+AI-01,AI,Claude Project and Skills usage,M0,yes,0,,,,none
+QBO-01,QBO,QBO sandbox setup,M0,yes,0,,,,none
+ACC-01,Accounting,Double-entry and journal entries,M1,yes,0,,,,none
+ACC-02,Accounting,Bank reconciliation,M1,yes,0,,,,none
+ACC-03,Accounting,Accrual vs cash and cut-off,M1,yes,0,,,,none
+ACC-04,Accounting,AP and AR cycle,M1,yes,0,,,,none
+ACC-05,Accounting,Month-end close checklist,M1,yes,0,,,,none
+QBO-02,QBO,Chart of accounts setup and cleanup,M1,yes,0,,,,none
+QBO-03,QBO,Bank feeds and bank rules,M1,yes,0,,,,none
+QBO-04,QBO,Reconcile in QBO,M1,yes,0,,,,none
+QBO-05,QBO,Core reports (P&L BS aging),M1,yes,0,,,,none
+XL-01,Excel,Cleaning messy exports,M2,yes,0,,,,none
+XL-02,Excel,XLOOKUP and matching,M2,yes,0,,,,none
+XL-03,Excel,PivotTables,M2,yes,0,,,,none
+XL-04,Excel,Bank vs ledger matching,M2,yes,0,,,,none
+AUTO-01,Automation,Triggers actions mapping (Make),M3,yes,0,,,,none
+AUTO-02,Automation,Filters routers iterators,M3,yes,0,,,,none
+AUTO-03,Automation,Error handling and retries,M3,yes,0,,,,none
+AUTO-04,Automation,Connect to QBO,M3,yes,0,,,,none
+AUTO-05,Automation,Human approval step,M3,yes,0,,,,none
+AUTO-06,Automation,Same workflow in n8n,M3,yes,0,,,,none
+AUTO-07,Automation,Zapier basics (only if scan justifies),M3,no,0,,,,none
+AI-02,AI,Structured extraction (JSON),M4,yes,0,,,,none
+AI-03,AI,Validation checks on AI output,M4,yes,0,,,,none
+AI-04,AI,Prompt chaining with checks,M4,yes,0,,,,none
+AI-05,AI,Client data safety (PII),M4,yes,0,,,,none
+AI-06,AI,Testing AI against a test set,M4,yes,0,,,,none
+CLIENT-01,Client,Write a one-page offer,W8,yes,0,,,,none
+CLIENT-02,Client,Outreach messages,W8,yes,0,,,,none
+CLIENT-03,Client,Discovery call,W8,yes,0,,,,none
+AI-07,AI,Agent loop with checkpoints,M5,yes,0,,,,none
+AI-08,AI,Cost per task,M5,yes,0,,,,none
+XERO-01,Xero,Xero basics (AU lane),M5,no,0,,,,none
+AI-09,AI,Governance checklist for small clients,M6,yes,0,,,,none
+CLIENT-04,Client,Pricing and proposals,M6,yes,0,,,,none

@@ -1,0 +1,13 @@
+# Never commit real client data
+clients/
+*.real.*
+*.client.*
+.env
+.env.*
+*.qbo
+*.qbw
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
