@@ -30,8 +30,8 @@
 3. First browser scan (Reddit + Facebook groups) with `market-scan`
 
 ## Skills due for review
-- TECH-02 (terminal) — 2026-10-04
-- TECH-01 (Git) — 2026-10-06
+- TECH-02 (terminal) — 2026-10-04 — **repair first** (tool gap): 10-min micro-lesson on the `!` prefix and terminal vs chat input
+- TECH-01 (Git) — 2026-10-04 — do the add → commit → push loop from memory (no table)
 
 ## Assessor notes
 (patterns the Assessor sees — e.g. "fast on concepts, slow on tool clicks")
@@ -40,6 +40,7 @@
 - 2026-10-03 — Strong with analogies (commit = game save slot). Good sign for teach/content level.
 - 2026-10-03 — Minutes often not reported. Ask for minutes at the end of each step.
 - Practice habit given: "Say it, do it, check it" from memory. First use: session-end commit.
+- 2026-10-03 — Session-end practice: forgot `git add` from memory, and put text before `!` 3 times. Both `S`. TECH-01 2→1, TECH-02 1→0. Repair micro-lesson next session before new work.
 
 ## Lesson revisions so far
 - M0-L1 v1 — live adapt: Steps 3+4 merged into one real task (Rule A, two `U` in a row).
