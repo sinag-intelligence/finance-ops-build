@@ -11,3 +11,4 @@ clients/
 Thumbs.db
 .vscode/
 __pycache__/
+*.zip

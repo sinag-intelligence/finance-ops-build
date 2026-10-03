@@ -20,6 +20,7 @@ Last updated: 2026-10-03
 - **2026-10-03** — This plan is **separate** from the Client-to-Close Assistant plan.
 - **2026-10-03** — This plan has **nothing** to do with the gaming audit reconciliation work. Never mix them. Never use its data.
 - **2026-10-03** — No real client data in this repo, the portfolio, or the product. Use fake or masked data only.
+- **2026-10-03** — Ken's own learning data (`data/session_log.csv`, `data/skill_map.csv`, `learning/LEARNER_STATE.md`) stays **public** in this repo, as build-in-public proof. It contains no PII. Session notes are written in a neutral, professional way.
 
 ## 3. Time
 
