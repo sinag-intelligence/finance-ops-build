@@ -11,3 +11,4 @@ date,session_no,module,lesson,lesson_version,step,skill_id,outcome,confidence,mi
 2026-10-16,2,M0,repair,v1,R3,TECH-03,U,2,20,10,none,Created new folder + .md file in VS Code unaided; used - list format after tip
 2026-10-16,2,M0,repair,v1,R4,TECH-01,H,3,3,5,tool,Commit loop with card: forgot file path on git add; fixed by reading Git's own hint (chose single-file add). Commit + push + status correct. Added add-dot vs add-file to card
 2026-10-17,2,M0,weekly-review,,WR,,,,10,10,none,Weekly review: M0 extended 1 week; hours stay 20/week; session every 2 days (Ken confirmed)
+2026-10-17,2,M0,repair,v1,R5,TECH-01,H,3,5,5,tool,Session commit from memory without card: full loop add-commit-push-status in correct order. 1 hint: first git add sent without ! (went to chat)

@@ -32,7 +32,7 @@
 ## Skills due for review
 - TECH-02 (terminal) — 2026-10-16 — quick `!` command check
 - TECH-03 (VS Code) — 2026-10-17 — create a file in a new folder
-- TECH-01 (Git) — 2026-10-19 — commit loop from memory, no card
+- TECH-01 (Git) — 2026-10-20 — commit loop from memory, no card (watch: `!` first)
 
 ## Assessor notes
 (patterns the Assessor sees — e.g. "fast on concepts, slow on tool clicks")
