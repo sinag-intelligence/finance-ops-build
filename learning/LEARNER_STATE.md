@@ -6,10 +6,10 @@
 ## Status
 - **Week:** 2 of 12 (M0 extended by 1 week)
 - **Module:** M0 — Setup (extended to week 2)
-- **Current lesson:** M0-L1 done (2026-10-03). Repairs done (2026-10-15/16). Next: M0-L2
-- **Hours this week:** ~1 / 20 (week 2). Week 1 ended at ~1.5 / 20.
-- **Total hours:** ~2.5 / ~240
-- **Sessions done:** 2
+- **Current lesson:** M0-L1 done (2026-10-03). Repairs done (2026-10-15/16). Reviews done (2026-10-17). Next: M0-L2
+- **Hours this week:** ~1.5 / 20 (week 2). Week 1 ended at ~1.5 / 20.
+- **Total hours:** ~3 / ~240
+- **Sessions done:** 3
 
 ## Starting point (no pre-test)
 - Accounting graduate (2005), never practised → accounting lessons start at **Guided** level and move up fast if results are strong.
@@ -20,7 +20,7 @@
 ## This week's hour split
 | Area | Planned | Done |
 |---|---|---|
-| Learn | 8 | 1 |
+| Learn | 8 | 1.5 |
 | Build | 8 | 0 |
 | Clients + content + product | 4 | 0 |
 
@@ -30,9 +30,9 @@
 3. First browser scan (Reddit + Facebook groups) with `market-scan`
 
 ## Skills due for review
-- TECH-02 (terminal) — 2026-10-16 — quick `!` command check
-- TECH-03 (VS Code) — 2026-10-17 — create a file in a new folder
+- TECH-03 (VS Code) — 2026-10-18 — rename a file with F2 + edit Markdown exactly as asked (self-check before "done")
 - TECH-01 (Git) — 2026-10-20 — commit loop from memory, no card (watch: `!` first)
+- TECH-02 (terminal) — 2026-10-20 — a `git log` variant (e.g. `--oneline -n`)
 
 ## Assessor notes
 (patterns the Assessor sees — e.g. "fast on concepts, slow on tool clicks")
@@ -44,6 +44,7 @@
 - 2026-10-03 — Session-end practice: forgot `git add` from memory, and put text before `!` 3 times. Both `S`. TECH-01 2→1, TECH-02 1→0. Repair micro-lesson next session before new work.
 - 2026-10-15 — After a 12-day gap Ken reported forgetting most Git basics. Recognition was still good (4/4 match). Relearn + own cheat card (`learning/cards/git-loop.md`) worked well.
 - 2026-10-16 — Reads error messages and self-fixes (git add hint). Strong habit — keep reinforcing.
+- 2026-10-17 — Session 3 reviews: TECH-02 1→2 (git log variant unaided after hints). TECH-03 stays 1: two `H` on exactness (extra `- ` before heading, READ.md vs README.md, "Faked" vs "Fake"). Pattern: says "done" before checking result against the instruction. Habit to build: re-read the instruction line by line before "done". Still sends some commands to chat without `!` (`git add .`).
 - 2026-10-17 — Weekly review: M0 extended 1 week. Hours stay 20/week. New rhythm: a session at least every 2 days (DECISIONS §6).
 
 ## Lesson revisions so far

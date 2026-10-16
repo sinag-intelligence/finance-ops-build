@@ -12,3 +12,7 @@ date,session_no,module,lesson,lesson_version,step,skill_id,outcome,confidence,mi
 2026-10-16,2,M0,repair,v1,R4,TECH-01,H,3,3,5,tool,Commit loop with card: forgot file path on git add; fixed by reading Git's own hint (chose single-file add). Commit + push + status correct. Added add-dot vs add-file to card
 2026-10-17,2,M0,weekly-review,,WR,,,,10,10,none,Weekly review: M0 extended 1 week; hours stay 20/week; session every 2 days (Ken confirmed)
 2026-10-17,2,M0,repair,v1,R5,TECH-01,H,3,5,5,tool,Session commit from memory without card: full loop add-commit-push-status in correct order. 1 hint: first git add sent without ! (went to chat)
+2026-10-17,3,M0,review,,RV1,TECH-02,H,2,3,5,tool,Review: first ! git status went to chat (not run); 2nd try ran. Needed hint for git log; ran git log -3 without --oneline. Read top commit correctly
+2026-10-17,3,M0,review,,RV1b,TECH-02,U,3,1,2,none,Extra variant: git log --oneline -5 first try with ! correct. Read 4th commit correctly
+2026-10-17,3,M0,review,,RV2,TECH-03,H,2,2,5,concept,Created learning/notes/questions.md in VS Code. Folder+file correct. Added "- " before # heading; 1 hint; fixed and explained dash = list item. Taught: # heading on top and - items below
+2026-10-17,3,M0,review,,RV2b,TECH-03,H,3,4,3,none,Variant: data/practice/README.md. Heading + list item correct. 1 hint: file named READ.md and "Faked" not "Fake". Made new file instead of rename; deleted old file. Taught F2 rename
