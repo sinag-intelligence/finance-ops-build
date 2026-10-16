@@ -1,0 +1,6 @@
+- ! git add to stage changed files ready for commit
+- ! git commit to save the version of changed files with corresponding commit message/description
+- ! git push to copy changed file version to Github
+- ! git status to check what changes have been made and what's the next step
+- ! to switch to terminal or tell claude code to treat what follows after it as a command and execute it. Anything typed before !, claude code only reads it as chat. If VS Code terminal is used instead of claude code, no need to prefix !
+- Before doing ! git commit, do ! git add first. No changed files will get committed if they are not added first.
