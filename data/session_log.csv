@@ -16,3 +16,4 @@ date,session_no,module,lesson,lesson_version,step,skill_id,outcome,confidence,mi
 2026-10-17,3,M0,review,,RV1b,TECH-02,U,3,1,2,none,Extra variant: git log --oneline -5 first try with ! correct. Read 4th commit correctly
 2026-10-17,3,M0,review,,RV2,TECH-03,H,2,2,5,concept,Created learning/notes/questions.md in VS Code. Folder+file correct. Added "- " before # heading; 1 hint; fixed and explained dash = list item. Taught: # heading on top and - items below
 2026-10-17,3,M0,review,,RV2b,TECH-03,H,3,4,3,none,Variant: data/practice/README.md. Heading + list item correct. 1 hint: file named READ.md and "Faked" not "Fake". Made new file instead of rename; deleted old file. Taught F2 rename
+2026-10-17,3,M0,review,,practice,TECH-01,H,,5,5,tool,Session-end commit from memory: git add . sent to chat (no !); ran commit then push before add. Fixed after 2 hints (read Git message; add-commit-push box analogy). Commit + push + status correct
