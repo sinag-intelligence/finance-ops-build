@@ -54,6 +54,7 @@ Last updated: 2026-10-03
 - **2026-10-03** — Background: accounting graduate (2005), never practised. Treat accounting as "known once, needs refresh", not "new".
 - **2026-10-03** — Progressive disclosure: one step at a time. Wait for confirmation.
 - **2026-10-03** — All instructions in **simple, plain English**. Short sentences. Numbered steps.
+- **2026-10-17** — Session rhythm: **short sessions, often**. At least one session every **2 days**, even 30 min. Reason: a 12-day gap after session 1 caused most Git basics to be forgotten. Weekly target stays **20 hours**.
 
 ## 7. AI stack and setup
 

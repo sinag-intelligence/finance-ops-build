@@ -48,6 +48,8 @@ Always write in **simple, plain English**. Short sentences. Numbered steps. Ken'
 2. Show Ken a 4-line summary: done, mastery changes, what changed in the plan, next session starts with.
 3. If anything is build-worthy or share-worthy → suggest running `build-to-content`.
 4. Remind Ken to commit: `git add . && git commit -m "Session YYYY-MM-DD"`.
+5. **/clear prompt.** Run `git status`. Only when it shows "nothing to commit" and "up to date with 'origin/main'", tell Ken: *"✅ Safe to /clear now. Everything is saved in files and on GitHub."* If anything is unsaved, say what is missing instead. Never suggest /clear in the middle of a lesson step.
+6. Also suggest /clear at a **clean switch point** mid-session (e.g. after a lesson ends and before a new one starts), but only after steps 1–5 above are done for the finished part.
 
 ## 4. Weekly review ("weekly review")
 

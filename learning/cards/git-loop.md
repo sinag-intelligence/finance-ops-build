@@ -4,3 +4,5 @@
 - ! git status to check what changes have been made and what's the next step
 - ! to switch to terminal or tell claude code to treat what follows after it as a command and execute it. Anything typed before !, claude code only reads it as chat. If VS Code terminal is used instead of claude code, no need to prefix !
 - Before doing ! git commit, do ! git add first. No changed files will get committed if they are not added first.
+- git add . will stage all changed files for commit
+- git add with file name will stage only the specified file

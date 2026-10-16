@@ -5,3 +5,9 @@ date,session_no,module,lesson,lesson_version,step,skill_id,outcome,confidence,mi
 2026-10-03,1,M0,M0-L1,v1,4,TECH-01,H,3,,10,concept,Explain-back: push and .gitignore correct. Commit first described as 'execute'; after 1 hint gave clear save-game / restore-point analogy
 2026-10-03,1,M0,M0-L1,v1,practice,TECH-01,S,,,5,concept,Session-end commit from memory: skipped git add; needed full sequence shown. Push done
 2026-10-03,1,M0,M0-L1,v1,practice,TECH-02,S,,,5,tool,Typed text before ! so command did not run (3 tries). Fixed after shown that ! must be the first character
+2026-10-15,2,M0,repair,v1,R1,TECH-02,U,3,2,5,tool,Repair: ! as first character worked first try. Read git log correctly (4 commits). 12-day gap; Ken reports forgetting most Git basics
+2026-10-15,2,M0,repair,v1,R2,TECH-01,U,2,,10,none,Relearn match: 4/4 commands correct, order add-commit-push correct with good reasoning
+2026-10-16,2,M0,repair,v1,R3,TECH-01,H,2,20,10,concept,Wrote own Git cheat card. 2 hints: ! is read by Claude Code not Git; commit saves a version (not 'into effect'). Both fixed correctly
+2026-10-16,2,M0,repair,v1,R3,TECH-03,U,2,20,10,none,Created new folder + .md file in VS Code unaided; used - list format after tip
+2026-10-16,2,M0,repair,v1,R4,TECH-01,H,3,3,5,tool,Commit loop with card: forgot file path on git add; fixed by reading Git's own hint (chose single-file add). Commit + push + status correct. Added add-dot vs add-file to card
+2026-10-17,2,M0,weekly-review,,WR,,,,10,10,none,Weekly review: M0 extended 1 week; hours stay 20/week; session every 2 days (Ken confirmed)

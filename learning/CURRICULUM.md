@@ -12,7 +12,7 @@ Every module gives three outputs:
 
 ---
 
-## M0 — Setup (Week 1)
+## M0 — Setup (Weeks 1–2, extended)
 
 **Core skills:** TECH-01, TECH-02, TECH-03, AI-01, QBO-01
 
@@ -139,3 +139,4 @@ Every module gives three outputs:
 
 ## Change log
 - v1 — 2026-10-03 — created
+- v1.1 — 2026-10-17 — Weekly review: M0 extended by 1 week (core skills at 0–2 after week 1; 12-day gap). All later modules move back 1 week. Week numbers in headings not yet renumbered — add +1 to each.

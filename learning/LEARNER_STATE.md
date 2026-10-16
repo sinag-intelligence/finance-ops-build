@@ -4,12 +4,12 @@
 > Detailed numbers live in `data/skill_map.csv` and `data/session_log.csv`.
 
 ## Status
-- **Week:** 1 of 12
-- **Module:** M0 — Setup
-- **Current lesson:** M0-L1 done (2026-10-03). Next: M0-L2
-- **Hours this week:** ~1.5 / 20 (estimate; minutes not tracked every step)
-- **Total hours:** ~1.5 / ~240
-- **Sessions done:** 1
+- **Week:** 2 of 12 (M0 extended by 1 week)
+- **Module:** M0 — Setup (extended to week 2)
+- **Current lesson:** M0-L1 done (2026-10-03). Repairs done (2026-10-15/16). Next: M0-L2
+- **Hours this week:** ~1 / 20 (week 2). Week 1 ended at ~1.5 / 20.
+- **Total hours:** ~2.5 / ~240
+- **Sessions done:** 2
 
 ## Starting point (no pre-test)
 - Accounting graduate (2005), never practised → accounting lessons start at **Guided** level and move up fast if results are strong.
@@ -20,7 +20,7 @@
 ## This week's hour split
 | Area | Planned | Done |
 |---|---|---|
-| Learn | 8 | 1.5 |
+| Learn | 8 | 1 |
 | Build | 8 | 0 |
 | Clients + content + product | 4 | 0 |
 
@@ -30,8 +30,9 @@
 3. First browser scan (Reddit + Facebook groups) with `market-scan`
 
 ## Skills due for review
-- TECH-02 (terminal) — 2026-10-04 — **repair first** (tool gap): 10-min micro-lesson on the `!` prefix and terminal vs chat input
-- TECH-01 (Git) — 2026-10-04 — do the add → commit → push loop from memory (no table)
+- TECH-02 (terminal) — 2026-10-16 — quick `!` command check
+- TECH-03 (VS Code) — 2026-10-17 — create a file in a new folder
+- TECH-01 (Git) — 2026-10-19 — commit loop from memory, no card
 
 ## Assessor notes
 (patterns the Assessor sees — e.g. "fast on concepts, slow on tool clicks")
@@ -41,6 +42,9 @@
 - 2026-10-03 — Minutes often not reported. Ask for minutes at the end of each step.
 - Practice habit given: "Say it, do it, check it" from memory. First use: session-end commit.
 - 2026-10-03 — Session-end practice: forgot `git add` from memory, and put text before `!` 3 times. Both `S`. TECH-01 2→1, TECH-02 1→0. Repair micro-lesson next session before new work.
+- 2026-10-15 — After a 12-day gap Ken reported forgetting most Git basics. Recognition was still good (4/4 match). Relearn + own cheat card (`learning/cards/git-loop.md`) worked well.
+- 2026-10-16 — Reads error messages and self-fixes (git add hint). Strong habit — keep reinforcing.
+- 2026-10-17 — Weekly review: M0 extended 1 week. Hours stay 20/week. New rhythm: a session at least every 2 days (DECISIONS §6).
 
 ## Lesson revisions so far
 - M0-L1 v1 — live adapt: Steps 3+4 merged into one real task (Rule A, two `U` in a row).
