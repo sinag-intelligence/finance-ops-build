@@ -8,3 +8,4 @@ Add one line per idea: date · source (session/scan/build) · idea · format (st
 - 2026-10-17 · research · "I read the 'AI Controller' agent file 160k devs starred — what small-business bookkeepers should steal from it" · story (series plan: `content/PLAN_controller-agent-series.md`)
 - 2026-10-17 · research · "Every journal entry needs 3 things: reason, proof, approval" · how-to
 - 2026-10-17 · research · "Daily / weekly / monthly bookkeeping rhythm in one table" · how-to (carousel)
+- 2026-10-17 · session · "Your Claude Project forgets nothing — but it also learns nothing: why a git push never reaches Claude.ai, and my 5-line sync card" · how-to
