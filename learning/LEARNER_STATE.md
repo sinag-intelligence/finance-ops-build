@@ -31,7 +31,7 @@
 
 ## Skills due for review
 - TECH-03 (VS Code) — 2026-10-18 — rename a file with F2 + edit Markdown exactly as asked (self-check before "done"; "add above" vs "replace")
-- TECH-01 (Git) — 2026-10-20 — commit loop from memory, no card (watch: `!` first)
+- TECH-01 (Git) — 2026-10-24 — (mastery 3) commit loop with a twist: commit only one of two changed files
 - AI-01 (Claude Project) — 2026-10-20 — say from memory: what goes in instructions vs knowledge; which 3 files to re-sync
 - TECH-02 (terminal) — 2026-10-24 — (mastery 3) a new command with a flag, read its output
 

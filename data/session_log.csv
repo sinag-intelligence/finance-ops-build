@@ -23,4 +23,4 @@ date,session_no,module,lesson,lesson_version,step,skill_id,outcome,confidence,mi
 2026-10-17,4,M0,M0-L2,v1.1,4,AI-01,H,,15,10,concept,Uploaded new skill zip; verified via /clear checklist answer (rule only in Oct 16 SKILL.md). 1 hint: was about to delete local SKILL.md/ASSESSOR.md instead of the Claude.ai copy (window switching)
 2026-10-17,4,M0,M0-L2,v1.1,5,AI-01,H,,,5,concept,Explain-back: when to re-upload + repo vs Claude.ai correct (push goes to GitHub not Claude.ai). Missed Project knowledge half; correct after 1 hint
 2026-10-17,4,M0,M0-L2,v1.1,6,TECH-03,H,2,,10,none,Wrote learning/cards/claude-sync.md. 2 hints: line said how not when; first fix typed in chat not file. Replaced line instead of adding above (exactness pattern)
-2026-10-17,4,M0,M0-L2,,practice,TECH-01,U,,3,5,none,Session-end commit from memory no card: add-commit-push-status in correct order, ! first every time, no hints. Read CRLF warnings calmly
+2026-10-17,4,M0,M0-L2,,practice,TECH-01,U,3,3,5,none,Session-end commit from memory no card: add-commit-push-status in correct order, ! first every time, no hints. Read CRLF warnings calmly
