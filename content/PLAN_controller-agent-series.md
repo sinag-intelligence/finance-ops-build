@@ -1,7 +1,7 @@
 # Content plan — "The AI Controller, made small"
 
 > Source: `finance/finance-bookkeeper-controller.md` in [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (MIT license, ~160k stars).
-> Created: 2026-10-17. Status: **draft — Ken to confirm.**
+> Created: 2026-10-17. Status: **agreed, starts after M0 is done.** Week numbers below shift if M0 runs longer.
 > Rule: use it as **inspiration only**, like the JHU brochure (DECISIONS §9). Write in our own words. Always link the source.
 
 ---
@@ -89,10 +89,34 @@ Do **not** build this now. Ken is in M0. Slot it into the curriculum:
 3. **Long-form every 2nd week**, right after a build step is done (so it has real proof).
 4. Log each published post in `content/posts/` with date + platform + replies.
 
-## 8. Open questions for Ken
+## 8. Ken's answers (2026-10-17)
 
-1. **Platforms:** Facebook freelancer groups + LinkedIn? (Not in DECISIONS yet.)
-2. **Start date:** begin in week 3, or wait until M0 is done?
-3. **Video:** yes or no for long-form?
+1. **Platforms:** use what gives better results. If no clear winner, post to many platforms with automation.
+2. **Start:** wait until M0 is done.
+3. **Long-form:** yes to video. Format = **long instructional text post + link to the long-form video**.
 
-When Ken answers, propose a DECISIONS §9 entry and let Ken confirm.
+## 9. Platform test (4 weeks after start)
+
+Two audiences, so two starting platforms:
+
+| Audience | Platform | Why |
+|---|---|---|
+| Filipino freelancers (content + PDF buyers) | **Facebook** (own page + 3 freelancer groups) | Where the audience already is (see market scan sources) |
+| Clients (US SMBs, bookkeeping firms) | **LinkedIn** | Where owners and firm owners look for help |
+| Long-form video home | **YouTube** | Searchable, the link works on every platform |
+
+1. Post the same piece on Facebook + LinkedIn for 4 weeks.
+2. Track per post in `content/posts/`: reactions, comments, shares, profile visits, DMs. **DMs and leads count most.**
+3. After 4 weeks: keep the winner as the main platform. Keep the other only if it gives leads.
+
+## 10. Automated multi-platform posting
+
+1. **Before M3:** post by hand, or use a free scheduler for the FB page + LinkedIn.
+2. **Facebook groups can't be auto-posted** (Meta closed the Groups API in 2024). Group posts stay manual, with a human touch. This also fits the "human pace" rule (DECISIONS §7).
+3. **M3 build idea:** a Make / n8n workflow: draft in `content/posts/` → Ken approves → posts to FB page + LinkedIn → logs the result in a sheet. This becomes real portfolio proof (build once, use three times).
+
+## 11. Long-form format
+
+1. Instructional text post (8–15 short steps or points). It must be useful on its own.
+2. Link to the YouTube video for the full walkthrough. Tip: test the link in the first comment vs. the post body, because platforms may show posts with links to fewer people.
+3. Same video → PDF chapter → case study.
