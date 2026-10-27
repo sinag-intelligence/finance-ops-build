@@ -1,6 +1,6 @@
 ---
 name: market-scan
-description: Run Ken's monthly finance-ops job market and community scan as a checked prompt chain. Use when Ken says "market scan", "run the scan", "what's the market saying", or on the monthly schedule.
+description: Run Ken's monthly finance-ops job market and community scan, and the weekly lead-signals hunt, as checked prompt chains. Use when Ken says "market scan", "run the scan", "what's the market saying", "lead signals", "find leads", or on the monthly or weekly schedule.
 ---
 
 # Market Scan (prompt chain)
@@ -66,3 +66,29 @@ List any change worth making (tool, niche, region). **Do not change DECISIONS.md
    - Sources skipped (if any)
 3. If a proposed change affects lessons, tell the `learning-session` Assessor by adding a line under "Assessor notes" in `learning/LEARNER_STATE.md`.
 4. Add 1–3 content ideas to `content/IDEAS.md` (pain points make good posts).
+
+## Weekly: Lead signals (added 2026-10-27)
+
+Use when Ken says "lead signals", "find leads", or once a week. 30–45 minutes. Goal: find **buyers who already know they have a problem** we can fix (DECISIONS §4, §8).
+
+**Target:** US contractors and home-service businesses. Also small US bookkeeping/CPA firms serving them.
+
+**Pain types to look for:**
+- `books-behind` — books behind, need cleanup, CPA or tax deadline coming
+- `job-costing` — can't see profit per job
+- `1099` — subcontractor payments / 1099 panic
+- `sync-mess` — Jobber / Housecall Pro / other app ↔ QuickBooks duplicates or errors
+- `bookkeeper-gone` — bookkeeper quit, looking for help
+- `automate` — "how do I automate X" (invoices, receipts, payments)
+
+**Sources:** see "Weekly lead signals" in `docs/market-scan/SOURCES.md`. Reddit and Upwork: Ken reads and pastes the post text or link. Claude reads the rest (public pages, or the browser at human pace).
+
+**Steps:**
+1. **Find** posts from the last 7 days that match a pain type. **Check:** each has a date, platform and link.
+2. **Score awareness:** `hiring` (says they will pay) · `asking` (asks how to fix) · `venting` (just complains). Keep `hiring` and `asking`. **Check:** drop posts older than 7 days and duplicates.
+3. **Draft a reply** for each kept post: a public, useful answer, 2–4 sentences, one real tip, **no pitch, no link**. For `hiring` posts, also draft a short DM or proposal. **Ken edits and sends. Claude never posts or sends.**
+4. **Save** leads to `private/leads.csv` (gitignored — check with `git check-ignore private/leads.csv` before writing). Columns: `date_found,platform,link,pain_type,industry,awareness,status,next_step,note`.
+5. **Count** for the public repo: append rows to `data/lead_signals.csv` (`week,platform,pain_type,awareness,count`). **No names, links or quotes** in public files.
+6. Follow up older leads in `private/leads.csv`: list any with `status=replied` and no next step.
+
+**Rules:** follow each group's self-promotion rules. Read only what Ken can see. Never store personal details beyond the post link.

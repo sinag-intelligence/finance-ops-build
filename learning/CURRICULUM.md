@@ -3,6 +3,9 @@
 > This is the **starting** plan. The Dynamic Learning Assessor changes pace, order, and lesson content based on real results.
 > Weeks are targets, not rules. Gates are rules. See `.claude/skills/learning-session/ASSESSOR.md`.
 
+> **2026-10-27 — Just-in-time mode (DECISIONS §1, §6).** Goal is a first paid client by 2026-12-22. Modules below are a **reference list, not a gate before selling**. Learn a topic only when a client task or a sales asset needs it this week.
+> **Active now:** M1, retargeted to contractors — build the "Fake Builders LLC" case study in the QBO sandbox (catch-up, job costing with Projects, 1099 subcontractor list for the CPA). Then the 2-minute sync-cleanup demo. Xero and M2–M6 wait until needed.
+
 **Total:** ~240 hours · 20 h/week · Default split: 8 learn / 8 build / 4 clients + content + product
 
 Every module gives three outputs:
@@ -140,3 +143,4 @@ Every module gives three outputs:
 ## Change log
 - v1 — 2026-10-03 — created
 - v1.1 — 2026-10-17 — Weekly review: M0 extended by 1 week (core skills at 0–2 after week 1; 12-day gap). All later modules move back 1 week. Week numbers in headings not yet renumbered — add +1 to each.
+- v1.2 — 2026-10-27 — Strategy grill: just-in-time mode. Selling starts now (sprint Oct 28 – Nov 10). M1 retargeted to the contractor case study; other modules become reference.

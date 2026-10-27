@@ -13,3 +13,5 @@ Add one line per idea: date · source (session/scan/build) · idea · format (st
 - 2026-10-27 · session · "Fancy words vs true words: my AI wrote a great setup summary - and it was not true yet. How I explain my setup honestly in week 4" · story (raw draft: setup/why/diff blocks for Git, Claude Code, Claude Project, QBO sandbox; fix untrue-today claims before use)
 - 2026-10-27 · scan · "I counted 26 bookkeeping job posts. Zero asked for AI. Here's why that's an opportunity, not a warning" · story
 - 2026-10-27 · scan · "Xero or QuickBooks first? What 44 job posts (Oct 2026) say for Filipino bookkeepers" · how-to (table)
+- 2026-10-27 · strategy · "1099 season: what US contractors panic about in January — and how a Filipino bookkeeper can help before the deadline" · how-to
+- 2026-10-27 · strategy · "Why I stopped 'learning enough' and picked one niche: contractors (with the data)" · story

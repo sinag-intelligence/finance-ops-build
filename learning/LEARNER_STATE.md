@@ -25,9 +25,14 @@
 | Clients + content + product | 4 | 0 |
 
 ## Next up
-1. First browser scan (Reddit + Facebook groups) with `market-scan` (M0 step 6)
-2. Then M1 (start M1-L1). Also: repeat the M0 3-sentence explain-back, own words, no help (confidence was 1).
-3. Content: Content plan starts after M0 (DECISIONS §9 entries still waiting for Ken's yes)
+Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
+1. Week 1: Upwork profile + Sinag line · start "Fake Builders LLC" case study (M1, QBO sandbox) · first weekly lead-signal scan · apply to 5 contractor cleanup jobs.
+2. **Sunday 2026-11-01: hours check.** If hours did not improve, lower the weekly target (proposed 8h).
+3. Week 2: finish case study + record 2-min demo · 10 helpful replies · 20 DMs · 5 more applications.
+4. Content: 2 short posts per week (Facebook + LinkedIn).
+5. Still open: repeat the M0 3-sentence explain-back, own words, no help (confidence was 1).
+
+(M0 step 6 browser scan done 2026-10-27: Facebook read, Reddit blocked for the browser tool.)
 
 ## Skills due for review
 - AI-01 (Claude Project) — 2026-10-28 — (mastery 3) twist: what to do after editing a skill file (rebuild zip + re-upload)
@@ -51,6 +56,7 @@
 - 2026-10-17 — Session 4 (M0-L2): fast on discovery and terminal (`!` first every time, 2 min vs 10). Strong concept: "a push goes to GitHub, not to Claude.ai". Slips come from context switching: nearly deleted local skill files instead of the Claude.ai copy; typed a fix in chat instead of the file. Exactness pattern continues (replaced a line instead of adding above). Habits: "PC or browser?" before any delete; "is it in the file?" before done.
 - 2026-10-26 — Session 5 (reviews + M0-L3), spread over 4 days (10-18, 10-21, 10-24, 10-26). Gaps of 2–3 days; the "every 2 days" rhythm was mostly kept, but hours are very low. Short drills now unaided (TECH-03 1→3, AI-01 2→3). QBO-01 0→3 fast: read both balance columns unasked, explained the balance sheet equation in own words (incl. advances as liabilities). Good habits: asks before filling unknown form fields (role, app name); sources claims (2-year sandbox validity from Intuit page). Exactness slips remain on bigger real files (card: extra copied instruction line, leading spaces, wrong path). Also reports before finishing every part of a step.
 
+- 2026-10-27 — Strategy grill (DECISIONS 2026-10-27): plan moved to **earn first, learn just in time**. Teach only what the current sprint task needs (contractor QBO catch-up, job costing, 1099 list, then sync cleanup). Score sprint tasks on real outputs (applications sent, case study done), not only lessons. Xero, Excel, Make/n8n wait until a client task needs them.
 - 2026-10-26 — Weekly review (week 4). Last 7 days: Tech 2U 2H, QBO 3U 2H, AI 1U. No S/F. Hour split unchanged (8/8/4). Main risk is hours: ~4.7h done vs ~70h planned. Ken confirmed 20h/week stays (option A: longer sessions, not a lower target). Watch: if week 5 is still far below 20h, raise the target question again.
 - 2026-10-26 — Session 6 RV1: TECH-02 3→4 (git show --stat read correctly in 1 min, conf 3).
 

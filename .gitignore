@@ -12,3 +12,5 @@ Thumbs.db
 .vscode/
 __pycache__/
 *.zip
+# Private leads (names, links) - never public
+private/
