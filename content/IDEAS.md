@@ -11,3 +11,5 @@ Add one line per idea: date · source (session/scan/build) · idea · format (st
 - 2026-10-17 · session · "Your Claude Project forgets nothing — but it also learns nothing: why a git push never reaches Claude.ai, and my 5-line sync card" · how-to
 - 2026-10-26 · session · "Free QuickBooks practice company: how to get the Intuit sandbox (and why the bank and QuickBooks balances differ)" · how-to
 - 2026-10-27 · session · "Fancy words vs true words: my AI wrote a great setup summary - and it was not true yet. How I explain my setup honestly in week 4" · story (raw draft: setup/why/diff blocks for Git, Claude Code, Claude Project, QBO sandbox; fix untrue-today claims before use)
+- 2026-10-27 · scan · "I counted 26 bookkeeping job posts. Zero asked for AI. Here's why that's an opportunity, not a warning" · story
+- 2026-10-27 · scan · "Xero or QuickBooks first? What 44 job posts (Oct 2026) say for Filipino bookkeepers" · how-to (table)
