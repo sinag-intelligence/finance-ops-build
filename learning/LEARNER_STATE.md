@@ -4,12 +4,12 @@
 > Detailed numbers live in `data/skill_map.csv` and `data/session_log.csv`.
 
 ## Status
-- **Week:** 4 of 12 by calendar (week 1 started 2026-10-03). M0 is past its extended end (week 2). Weekly review overdue.
-- **Module:** M0 — Setup. All 5 core skills now at mastery 3. Gate check next.
-- **Current lesson:** M0-L3 done (2026-10-26). Next: weekly review, then M0 gate check
-- **Hours this week:** ~0.3 / 20 (week 4, from 2026-10-24). Session 5 total ~1h (estimated from step minutes + talk).
-- **Total hours:** ~4.7 / ~240
-- **Sessions done:** 5
+- **Week:** 4 of 12 by calendar (week 1 started 2026-10-03). Weekly review done 2026-10-26 (20h/week kept).
+- **Module:** M0 — Setup. **Gate PASSED 2026-10-27.** Remaining M0 item: first browser scan (step 6).
+- **Current lesson:** none open. Next: first browser scan with `market-scan`, then M1-L1.
+- **Hours this week:** ~0.8 / 20 (week 4, from 2026-10-24). Session 6 ~0.5h (estimated from step minutes + talk).
+- **Total hours:** ~5.2 / ~240
+- **Sessions done:** 6
 
 ## Starting point (no pre-test)
 - Accounting graduate (2005), never practised → accounting lessons start at **Guided** level and move up fast if results are strong.
@@ -20,22 +20,21 @@
 ## This week's hour split
 | Area | Planned | Done |
 |---|---|---|
-| Learn | 8 | 0.3 |
+| Learn | 8 | 0.8 |
 | Build | 8 | 0 |
 | Clients + content + product | 4 | 0 |
 
 ## Next up
-1. Weekly review (overdue: Sundays 2026-10-18 and 2026-10-25 missed). Look at hours: far below 20/week.
-2. M0 gate check: core skills all 3 ✅; build output (repo live + sessions logged) ✅; Ken explains M0 in 3 sentences ⏳
-3. First browser scan (Reddit + Facebook groups) with `market-scan` (M0 step 6)
-4. Then M1. Content plan starts after M0 (DECISIONS §9 entries still waiting for Ken's yes)
+1. First browser scan (Reddit + Facebook groups) with `market-scan` (M0 step 6)
+2. Then M1 (start M1-L1). Also: repeat the M0 3-sentence explain-back, own words, no help (confidence was 1).
+3. Content: Content plan starts after M0 (DECISIONS §9 entries still waiting for Ken's yes)
 
 ## Skills due for review
-- TECH-01 (Git) — 2026-10-24 (overdue) — commit loop with a twist: commit only one of two changed files
-- TECH-02 (terminal) — 2026-10-24 (overdue) — a new command with a flag, read its output
 - AI-01 (Claude Project) — 2026-10-28 — (mastery 3) twist: what to do after editing a skill file (rebuild zip + re-upload)
 - TECH-03 (VS Code) — 2026-10-31 — (mastery 3) multi-part card/file: check file vs instruction line by line before "done" (Rule B extra variant)
 - QBO-01 (QBO sandbox) — 2026-11-02 — (mastery 3) open the sandbox from the card alone; find one report
+- TECH-01 (Git) — 2026-11-02 — (mastery 3) commit loop with a twist: commit only one of two changed files
+- TECH-02 (terminal) — 2026-11-25 — (mastery 4) explain a command's output to a beginner (teach level)
 
 ## Assessor notes
 (patterns the Assessor sees — e.g. "fast on concepts, slow on tool clicks")
@@ -51,6 +50,11 @@
 - 2026-10-17 — Weekly review: M0 extended 1 week. Hours stay 20/week. New rhythm: a session at least every 2 days (DECISIONS §6).
 - 2026-10-17 — Session 4 (M0-L2): fast on discovery and terminal (`!` first every time, 2 min vs 10). Strong concept: "a push goes to GitHub, not to Claude.ai". Slips come from context switching: nearly deleted local skill files instead of the Claude.ai copy; typed a fix in chat instead of the file. Exactness pattern continues (replaced a line instead of adding above). Habits: "PC or browser?" before any delete; "is it in the file?" before done.
 - 2026-10-26 — Session 5 (reviews + M0-L3), spread over 4 days (10-18, 10-21, 10-24, 10-26). Gaps of 2–3 days; the "every 2 days" rhythm was mostly kept, but hours are very low. Short drills now unaided (TECH-03 1→3, AI-01 2→3). QBO-01 0→3 fast: read both balance columns unasked, explained the balance sheet equation in own words (incl. advances as liabilities). Good habits: asks before filling unknown form fields (role, app name); sources claims (2-year sandbox validity from Intuit page). Exactness slips remain on bigger real files (card: extra copied instruction line, leading spaces, wrong path). Also reports before finishing every part of a step.
+
+- 2026-10-26 — Weekly review (week 4). Last 7 days: Tech 2U 2H, QBO 3U 2H, AI 1U. No S/F. Hour split unchanged (8/8/4). Main risk is hours: ~4.7h done vs ~70h planned. Ken confirmed 20h/week stays (option A: longer sessions, not a lower target). Watch: if week 5 is still far below 20h, raise the target question again.
+- 2026-10-26 — Session 6 RV1: TECH-02 3→4 (git show --stat read correctly in 1 min, conf 3).
+
+- 2026-10-27 — M0 gate (S, conf 1): first 3 tries were polished, likely AI-assisted text with claims not true yet (automated engine, no human error), and a format miss. Own simple words on try 4 were clear and true. Also skipped direct questions twice. Habits: own words first, AI polish second; "is it true today?" check before any content; answer every question asked. Future content steps: add a "true today?" self-check line.
 
 ## Lesson revisions so far
 - M0-L1 v1 — live adapt: Steps 3+4 merged into one real task (Rule A, two `U` in a row).

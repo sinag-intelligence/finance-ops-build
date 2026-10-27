@@ -1,6 +1,6 @@
 skill_id,area,name,module,core,mastery,evidence,last_practiced,next_review,gap_type
-TECH-01,Tech,Git and GitHub basics (commit push),M0,yes,3,"H,U,H",2026-10-26,2026-10-24,tool
-TECH-02,Tech,Terminal and Claude Code basics,M0,yes,3,"U,U,H",2026-10-17,2026-10-24,none
+TECH-01,Tech,Git and GitHub basics (commit push),M0,yes,3,"H,U,H",2026-10-26,2026-11-02,tool
+TECH-02,Tech,Terminal and Claude Code basics,M0,yes,4,"U,U,U",2026-10-26,2026-11-25,none
 TECH-03,Tech,VS Code and file structure,M0,yes,3,"H,U,U",2026-10-24,2026-10-31,tool
 AI-01,AI,Claude Project and Skills usage,M0,yes,3,"U,H,H",2026-10-21,2026-10-28,none
 QBO-01,QBO,QBO sandbox setup,M0,yes,3,"H,U,U",2026-10-26,2026-11-02,none
