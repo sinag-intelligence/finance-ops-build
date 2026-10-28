@@ -1,5 +1,7 @@
 # Claude.ai Project — "Finance Ops Build"
 
+> **Optional since 2026-10-28** (DECISIONS §7). Claude Code + this repo is the one home. Use the Project only on the phone or for quick drafting. No routine sync.
+
 ## A. Paste this into the Project instructions
 
 ```

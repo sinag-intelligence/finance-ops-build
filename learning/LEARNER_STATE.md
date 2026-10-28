@@ -5,11 +5,11 @@
 
 ## Status
 - **Week:** 4 of 12 by calendar (week 1 started 2026-10-03). Weekly review done 2026-10-26 (20h/week kept).
-- **Module:** M0 — Setup. **Gate PASSED 2026-10-27.** All M0 items done (browser scan 2026-10-27). Now: sprint Oct 28 – Nov 10 (just-in-time M1).
-- **Current lesson:** none open. Next: sprint week 1 (Upwork profile + Fake Builders LLC case study).
-- **Hours this week:** ~1.0 / 20 (week 4, from 2026-10-24). Session 7 0.2h (10 min, Ken reported). Strategy grill on 2026-10-27 not timed.
-- **Total hours:** ~5.4 / ~240
-- **Sessions done:** 7
+- **Module:** M1 (just-in-time, contractor case study). M0 gate passed 2026-10-27. Sprint Oct 28 – Nov 10.
+- **Current lesson:** M1-L1 Fake Builders LLC catch-up (v1.1). Steps 1–5 done. **Next: Step 6** (2 bank rules + categorize 44 lines with projects).
+- **Hours this week:** ~2.2 / 20 (week 4, from 2026-10-24). Session 7 0.2h. Session 8 ~1.2h (~75 min).
+- **Total hours:** ~6.6 / ~240
+- **Sessions done:** 8
 
 ## Starting point (no pre-test)
 - Accounting graduate (2005), never practised → accounting lessons start at **Guided** level and move up fast if results are strong.
@@ -20,13 +20,13 @@
 ## This week's hour split
 | Area | Planned | Done |
 |---|---|---|
-| Learn | 8 | 1.0 |
-| Build | 8 | 0 |
+| Learn | 8 | 1.5 |
+| Build | 8 | 0.7 |
 | Clients + content + product | 4 | 0 |
 
 ## Next up
 Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
-1. Week 1: Upwork profile + Sinag line · start "Fake Builders LLC" case study (M1, QBO sandbox) · first weekly lead-signal scan · apply to 5 contractor cleanup jobs.
+1. Week 1: **M1-L1 Step 6** (categorize) → Steps 7–9 · Upwork profile + Sinag line (in Claude Code; own words first) · first weekly lead-signal scan · apply to 5 contractor cleanup jobs.
 2. **Sunday 2026-11-01: hours check.** If hours did not improve, lower the weekly target (proposed 8h).
 3. Week 2: finish case study + record 2-min demo · 10 helpful replies · 20 DMs · 5 more applications.
 4. Content: 2 short posts per week (Facebook + LinkedIn).
@@ -35,10 +35,11 @@ Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
 (M0 step 6 browser scan done 2026-10-27: Facebook read, Reddit blocked for the browser tool.)
 
 ## Skills due for review
+- ACC-01, QBO-02, QBO-03 — 2026-10-29 — (mastery 1) covered by M1-L1 Step 6 itself (categorize = ACC-01 + QBO-03; uses the new accounts = QBO-02). No separate drill.
 - TECH-03 (VS Code) — 2026-10-31 — (mastery 3) multi-part card/file: check file vs instruction line by line before "done" (Rule B extra variant)
-- QBO-01 (QBO sandbox) — 2026-11-02 — (mastery 3) open the sandbox from the card alone; find one report
 - TECH-01 (Git) — 2026-11-03 — (mastery 3) commit loop with a twist: commit only one of two changed files
-- AI-01 (Claude Project) — 2026-11-04 — (mastery 3) twist: sync after a change — say which files/zips need re-upload, and check the zip date before upload
+- AI-01 (Claude setup) — 2026-11-04 — (mastery 3) NEW twist (one-home decision 2026-10-28): run lead signals in Claude Code, and move one useful result into the right repo file
+- QBO-01 (QBO sandbox) — 2026-11-11 — (mastery 3) update the sandbox card with the Fake Builders LLC company + Clear data and reset path
 - TECH-02 (terminal) — 2026-11-25 — (mastery 4) explain a command's output to a beginner (teach level)
 
 ## Assessor notes
@@ -63,7 +64,10 @@ Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
 
 - 2026-10-27 — M0 gate (S, conf 1): first 3 tries were polished, likely AI-assisted text with claims not true yet (automated engine, no human error), and a format miss. Own simple words on try 4 were clear and true. Also skipped direct questions twice. Habits: own words first, AI polish second; "is it true today?" check before any content; answer every question asked. Future content steps: add a "true today?" self-check line.
 
+- 2026-10-28 — Session 8 (M1-L1 Steps 1–5): 5 U. Strong initiative in QBO: found "Clear data and reset" and the Basic vs Detailed costing setting unasked; reused existing accounts (no duplicates). Accounting refresh is real: raised deposit-as-liability (accrual) unprompted. Pattern continues: says "done" and skips parts of the check (company name/sample data; 1099 location; minutes) — answered fully after one prompt each. Keep asking "answer every check question". Decision: one home = Claude Code (DECISIONS §7, 2026-10-28).
+
 ## Lesson revisions so far
 - M0-L1 v1 — live adapt: Steps 3+4 merged into one real task (Rule A, two `U` in a row).
 - M0-L2 v1 — live adapt: Project already existed, so Steps 2+3 merged into one sync step; only the changed skill zip rebuilt (Rule A). v1.1: zip command uses full path to Windows tar.
 - M0-L3 v1.1 — Step 2: use Intuit's default US sandbox. Step 5: card must include the click path to open the company.
+- M1-L1 v1.1 — Steps 5/6 swapped (lists first, then categorize once with projects). Step 2 cut to Projects only. Cash basis for the case.

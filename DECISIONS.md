@@ -4,7 +4,7 @@
 > Every AI session reads this file first. Add new decisions at the bottom of each section, with a date.
 > Never delete a decision. If it changes, mark the old one `SUPERSEDED` and add the new one.
 
-Last updated: 2026-10-27
+Last updated: 2026-10-28
 
 ---
 
@@ -75,13 +75,14 @@ Last updated: 2026-10-27
 
 - **2026-10-03** — **Files are state.** Nothing important lives only in chat history.
 - **2026-10-03** — One chat = one job. Start a fresh chat for each phase or task.
-- **2026-10-03** — Two workspaces, one source of truth:
+- **2026-10-03** — `SUPERSEDED 2026-10-28` Two workspaces, one source of truth:
   - Claude.ai **Project** "Finance Ops Build" — planning, research, scans, writing.
   - **Claude Code** + this repo — building, logs, portfolio.
   - The **repo files** are the source of truth. Copy changed files into the Project knowledge when they change.
 - **2026-10-03** — Project memory kept **separate** from my other work.
 - **2026-10-03** — Start with **3 custom skills** only: `learning-session` (with the Assessor), `market-scan`, `build-to-content`. Add more only when a task repeats 3+ times.
 - **2026-10-03** — Not yet: multi-agent setups, custom MCP servers.
+- **2026-10-28** — **One home: Claude Code + this repo** for everything (learning, building, scans, lead signals, writing). Claude.ai is **optional**: phone or quick drafting only. No routine Project sync. If a Claude.ai chat makes something useful, paste it into a repo file. Reason: two workspaces were hard to track, and sync can't be automated (no tool reaches Claude.ai Project knowledge).
 - **2026-10-03** — Logged-in sites (Reddit, Facebook groups): use the built-in browser with my sign-in. Read at human pace. No mass scraping.
 
 ## 8. Market scan

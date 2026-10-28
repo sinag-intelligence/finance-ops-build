@@ -1,4 +1,5 @@
 # Checklist and Pre-caution When Updating Project Files/Knowledge in Claude.ai
+> Optional since 2026-10-28: Claude Code is the one home. Use this card only if you choose to update Claude.ai.
 - Perform sync when changes or updates are made to certain files.
 - Note 3 files that often change, among others, to reupload to Project Knowledge: Curriculum.md, Learner_state.md, and decisions.md
 - ! C:/Windows/System32/tar.exe -a -cf .claude/skills/learning-session.zip -C .claude/skills learning-session

@@ -3,14 +3,14 @@ TECH-01,Tech,Git and GitHub basics (commit push),M0,yes,3,"U,H,U",2026-10-27,202
 TECH-02,Tech,Terminal and Claude Code basics,M0,yes,4,"U,U,U",2026-10-26,2026-11-25,none
 TECH-03,Tech,VS Code and file structure,M0,yes,3,"U,U,U",2026-10-28,2026-10-31,tool
 AI-01,AI,Claude Project and Skills usage,M0,yes,3,"H,H,H",2026-10-28,2026-11-04,tool
-QBO-01,QBO,QBO sandbox setup,M0,yes,3,"H,U,U",2026-10-26,2026-11-02,none
-ACC-01,Accounting,Double-entry and journal entries,M1,yes,0,,,,none
+QBO-01,QBO,QBO sandbox setup,M0,yes,3,"U,U,H",2026-10-28,2026-11-11,none
+ACC-01,Accounting,Double-entry and journal entries,M1,yes,1,U,2026-10-28,2026-10-29,concept
 ACC-02,Accounting,Bank reconciliation,M1,yes,0,,,,none
 ACC-03,Accounting,Accrual vs cash and cut-off,M1,yes,0,,,,none
 ACC-04,Accounting,AP and AR cycle,M1,yes,0,,,,none
 ACC-05,Accounting,Month-end close checklist,M1,yes,0,,,,none
-QBO-02,QBO,Chart of accounts setup and cleanup,M1,yes,0,,,,none
-QBO-03,QBO,Bank feeds and bank rules,M1,yes,0,,,,none
+QBO-02,QBO,Chart of accounts setup and cleanup,M1,yes,1,U,2026-10-28,2026-10-29,none
+QBO-03,QBO,Bank feeds and bank rules,M1,yes,1,U,2026-10-28,2026-10-29,none
 QBO-04,QBO,Reconcile in QBO,M1,yes,0,,,,none
 QBO-05,QBO,Core reports (P&L BS aging),M1,yes,0,,,,none
 XL-01,Excel,Cleaning messy exports,M2,yes,0,,,,none
