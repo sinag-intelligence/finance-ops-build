@@ -1,9 +1,12 @@
-# M1-L1 — Fake Builders LLC: catch-up in QBO (v1.1)
+# M1-L1 — Fake Builders LLC: catch-up in QBO (v1.5)
 
 **Skills:** QBO-02, QBO-03, QBO-04, QBO-05, ACC-01, ACC-02 (+ TECH-03 for files)
 **Default level:** Guided (mastery 1) for accounting, New for QBO-02 to QBO-05
 **Time:** ~4–5 hours, split over several short sessions
-**Practice data:** fake — `data/practice/fake_builders_bank_2026-08_to_10.csv` (44 bank lines, Aug–Oct 2026, opening balance $8,500.00)
+**Practice data:** fake — `data/practice/fake-builders/01_from_client/fake_builders_bank_2026-08_to_10.csv` (44 bank lines, Aug–Oct 2026, opening balance $8,500.00)
+**Source docs (like a real client sends):** fake PDF bank statements, one per month — `data/practice/fake-builders/01_from_client/bank_statements/fake_builders_statement_2026-08.pdf`, `-09.pdf`, `-10.pdf` (made by `data/practice/fake-builders/make_bank_statements.py` from the same CSV)
+**Job folder (SOP):** `data/practice/fake-builders/` — job sheet `README.md`, `01_from_client/` (incl. `owner_notes.md` = the project list), `02_requests/`, `03_working/`, `04_deliverables/`
+**Answer key:** `data/practice/answer_keys/m1l1_answer_key.md` (made by script). Ken: open it only after a check is scored.
 
 ## Why this matters for clients
 Offer 1 is "Tax-ready books before Jan 31" for US contractors (DECISIONS §4). A real client will be 3 months behind, with a pile of bank lines that nobody has categorized. This lesson is that exact job on fake data. When it is done, it becomes your first portfolio case study and your proof for Upwork.
@@ -23,12 +26,14 @@ Offer 1 is "Tax-ready books before Jan 31" for US contractors (DECISIONS §4). A
 | Bank rule | A saved instruction: "lines that say X always go to account Y" |
 | Job costing | Tracking income and costs **per job**, to see profit per job. In QBO: **Projects** |
 | Subcontractor | A person or company the contractor pays to do part of a job. Not an employee |
-| 1099 / 1099-NEC | US tax form for paying non-employees $600+ in a year. Ken makes the **list**; the CPA files it |
+| 1099 / 1099-NEC | US tax form for paying non-employees **$2,000+** in a year (payments made in 2026 or later; it was $600 before). Ken makes the **list**; the CPA files it. Check IRS.gov each year: the amount will change with inflation from 2027 |
 | Owner draw | Money the owner takes out for personal use. **Not** an expense |
 | Transfer | Money moved between the owner's own accounts. **Not** income or expense |
 | Reconcile | Checking QBO against the bank statement, so both show the same ending balance |
 
 ## Bank statement ending balances (for reconciling)
+The real source is the **PDF statements** above. In real work: CSV (or bank feed) goes **into** QBO; the PDF statement is the **proof** you check against. This table is a short copy.
+
 | Month end | Ending balance |
 |---|---|
 | 2026-07-31 (opening) | $8,500.00 |
@@ -66,8 +71,8 @@ No clicks. In your own words, for each line, say **income, expense, or neither**
 
 ### Step 4 — Bank account + upload the CSV (~20 min)
 1. Add a bank account in the chart of accounts: **Business Checking**, opening balance **$8,500.00** as of **07/31/2026**.
-2. Banking → **Upload transactions** (manual upload / "Upload from file").
-3. Upload `data/practice/fake_builders_bank_2026-08_to_10.csv` into Business Checking. Map: Date, Description, one Amount column.
+2. Transactions → Bank transactions (older: Banking) → **Upload transactions** (manual upload / "Upload from file").
+3. Upload `data/practice/fake-builders/01_from_client/fake_builders_bank_2026-08_to_10.csv` into Business Checking. Map: Date, Description, one Amount column.
 
 **Check:** tell me how many lines are in **For review**. (It should be 44.)
 
@@ -100,7 +105,7 @@ No clicks. In your own words, for each line, say **income, expense, or neither**
 | Fuel, phone, insurance, software, bank fees, meals | no project (overhead) |
 | Savings 4471 | treat as the **business** savings account (owner confirmed) |
 
-**Check:** For review = 0. Tell me the traps you found and what you did with each. Then Project profitability: income and costs per project.
+**Check:** Pending (older name: For review) = 0. Tell me the traps you found and what you did with each. Then Project profitability: income and costs per project.
 
 ### Step 7 — Reconcile Aug, Sep, Oct (~40 min)
 Reconcile Business Checking month by month with the table above.
@@ -131,3 +136,7 @@ Write the before → after story in your own words. Then run `build-to-content`.
 ## Revision log
 - v1 — 2026-10-28 — created. Contractor niche (DECISIONS 2026-10-27).
 - v1.1 — 2026-10-28 — Steps 5/6 swapped: lists first, then categorize once with projects (avoids editing ~20 lines twice). Added project assignment list. Step 2 = Projects only (Ken named the company in Step 1); Basic costing chosen. Case uses cash basis.
+- v1.2 — 2026-10-29 — 1099-NEC threshold fixed: $600 → $2,000 for payments made in 2026+ (law change in 2025). Found when Ken asked how checks are grounded in sources.
+- v1.3 — 2026-11-04 — Added fake monthly PDF bank statements (script-made from the CSV). Ken asked for real-life source docs instead of a table in the lesson.
+- v1.4 — 2026-11-04 — Files moved into the client-job folder SOP (`data/practice/fake-builders/`). Owner project list also saved as `01_from_client/owner_notes.md`. Write trap notes in `03_working/`, client questions in `02_requests/requests.md`.
+- v1.5 — 2026-11-08 — Step 6 run as 6A (bank rules) + 6B (trap questions one by one, client question in `02_requests/`, then post). Trap (d) draw/transfer skipped after two `U` (Rule A; already sorted 4/4 in Step 3). Idea for Step 9: show how the duplicate changes Ortiz Bath profit.

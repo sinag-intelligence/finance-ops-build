@@ -17,3 +17,5 @@ Add one line per idea: date · source (session/scan/build) · idea · format (st
 - 2026-10-27 · strategy · "Why I stopped 'learning enough' and picked one niche: contractors (with the data)" · story
 - 2026-10-28 · session · "Is a customer deposit income? Cash vs accrual for contractors, in one example (and why the CPA decides)" · how-to
 - 2026-10-28 · session · "I had two AI workspaces and forgot what one was for. Why I moved everything to one home" · story
+- 2026-11-04 · session · "Practise like it is a real client: my 4-folder job SOP (from client / requests / working / deliverables), and why a CSV is not proof" · how-to
+- 2026-11-08 · session · "One $1,205 duplicate charge decided if a remodel job made money or lost money (fake data, real habit: keep it, ask the client)" · story

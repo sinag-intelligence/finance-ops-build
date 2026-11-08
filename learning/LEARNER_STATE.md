@@ -4,12 +4,12 @@
 > Detailed numbers live in `data/skill_map.csv` and `data/session_log.csv`.
 
 ## Status
-- **Week:** 4 of 12 by calendar (week 1 started 2026-10-03). Weekly review done 2026-10-26 (20h/week kept).
+- **Week:** 6 of 12 by calendar (week 1 started 2026-10-03; week 6 from 2026-11-07). Weekly review done 2026-10-26 (20h/week kept). **Hours check done 2026-11-08: target now 15h/week** (DECISIONS §3).
 - **Module:** M1 (just-in-time, contractor case study). M0 gate passed 2026-10-27. Sprint Oct 28 – Nov 10.
-- **Current lesson:** M1-L1 Fake Builders LLC catch-up (v1.1). Steps 1–5 done. **Next: Step 6** (2 bank rules + categorize 44 lines with projects).
-- **Hours this week:** ~2.2 / 20 (week 4, from 2026-10-24). Session 7 0.2h. Session 8 ~1.2h (~75 min).
-- **Total hours:** ~6.6 / ~240
-- **Sessions done:** 8
+- **Current lesson:** M1-L1 Fake Builders LLC catch-up (v1.5). Steps 1–6 done. **Next: Step 7** (reconcile Aug, Sep, Oct).
+- **Hours:** week 4 ~3.1 / 20. Week 5 (10-31 to 11-06) ~1.0 (session 10 part 1 on 11-04, minutes not tracked — guess). Week 6 (from 11-07): ~0.8 (session 10 part 2, 11-07/08).
+- **Total hours:** ~9.3 / ~240
+- **Sessions done:** 10
 
 ## Starting point (no pre-test)
 - Accounting graduate (2005), never practised → accounting lessons start at **Guided** level and move up fast if results are strong.
@@ -20,14 +20,15 @@
 ## This week's hour split
 | Area | Planned | Done |
 |---|---|---|
-| Learn | 8 | 1.5 |
-| Build | 8 | 0.7 |
-| Clients + content + product | 4 | 0 |
+| Learn + build | 5 | 0.8 |
+| Clients | 6 | 0 |
+| Content | 4 | 0 |
 
 ## Next up
 Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
-1. Week 1: **M1-L1 Step 6** (categorize) → Steps 7–9 · Upwork profile + Sinag line (in Claude Code; own words first) · first weekly lead-signal scan · apply to 5 contractor cleanup jobs.
-2. **Sunday 2026-11-01: hours check.** If hours did not improve, lower the weekly target (proposed 8h).
+1. **Before Nov 10 (sprint end):** Upwork profile + Sinag line (in Claude Code; own words first) · first weekly lead-signal scan · apply to contractor cleanup jobs. Sprint outputs (applications, DMs, posts) are not recorded in any file yet — ask Ken.
+2. M1-L1 **Step 7** (reconcile) → Steps 8–9 (case study; use the Ortiz insight below).
+3. Content: 2 posts/week, topics picked from search questions (DECISIONS §9, 2026-11-08). Split 5 learn+build · 6 clients · 4 content.
 3. Week 2: finish case study + record 2-min demo · 10 helpful replies · 20 DMs · 5 more applications.
 4. Content: 2 short posts per week (Facebook + LinkedIn).
 5. Still open: repeat the M0 3-sentence explain-back, own words, no help (confidence was 1).
@@ -35,7 +36,8 @@ Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
 (M0 step 6 browser scan done 2026-10-27: Facebook read, Reddit blocked for the browser tool.)
 
 ## Skills due for review
-- ACC-01, QBO-02, QBO-03 — 2026-10-29 — (mastery 1) covered by M1-L1 Step 6 itself (categorize = ACC-01 + QBO-03; uses the new accounts = QBO-02). No separate drill.
+- QBO-02 (mastery 1) — 2026-11-09 — covered by Step 7 (reconcile uses the accounts). No separate drill.
+- ACC-01, QBO-03 (mastery 2) — 2026-11-11 — covered by Step 7 (reconcile) if done by then; else a 5-min drill: categorize 3 new trap lines.
 - TECH-03 (VS Code) — 2026-10-31 — (mastery 3) multi-part card/file: check file vs instruction line by line before "done" (Rule B extra variant)
 - TECH-01 (Git) — 2026-11-03 — (mastery 3) commit loop with a twist: commit only one of two changed files
 - AI-01 (Claude setup) — 2026-11-04 — (mastery 3) NEW twist (one-home decision 2026-10-28): run lead signals in Claude Code, and move one useful result into the right repo file
@@ -66,8 +68,13 @@ Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
 
 - 2026-10-28 — Session 8 (M1-L1 Steps 1–5): 5 U. Strong initiative in QBO: found "Clear data and reset" and the Basic vs Detailed costing setting unasked; reused existing accounts (no duplicates). Accounting refresh is real: raised deposit-as-liability (accrual) unprompted. Pattern continues: says "done" and skips parts of the check (company name/sample data; 1099 location; minutes) — answered fully after one prompt each. Keep asking "answer every check question". Decision: one home = Claude Code (DECISIONS §7, 2026-10-28).
 
+- 2026-10-29 — Session 9 (M1-L1 Step 6A + QBO map card): 2 bank rules OK after undoing an auto-post mistake (1 hint). Asked how checks are grounded → led to the Grounded checks decision (DECISIONS §6) and the 1099 threshold fix. Session not closed that day; state written 2026-11-04.
+- 2026-11-04 — Session 10: Ken asked for **real-life source docs** (PDF statements, not a table in the lesson) and a **client-job folder SOP** (from_client / requests / working / deliverables). Both built; DECISIONS §6 2026-11-04. Strong professional instinct — thinking like a practitioner, not a student. Trap scan before clicking: found duplicate + return unaided; missed ToolRent projects that were in the list (exactness pattern: read the given list line by line).
+- 2026-11-08 — Session 10 part 2 (Step 6B): trap (a) duplicate kept correctly; client question first blamed the bank and assumed the answer, fixed after 1 hint. Traps (b) return + (c) ToolRent `U` in 5 min each, every part answered + minutes given unasked (habit improving). Posted 44 lines, project profitability exact to the cent in 15 min (half the estimate). Pattern still seen once: said "receipts" in chat, not in the file. Business insight to reuse: the duplicate decides if Ortiz Bath is a loss (−308.99) or a profit (+896.45 if refunded).
+
 ## Lesson revisions so far
 - M0-L1 v1 — live adapt: Steps 3+4 merged into one real task (Rule A, two `U` in a row).
 - M0-L2 v1 — live adapt: Project already existed, so Steps 2+3 merged into one sync step; only the changed skill zip rebuilt (Rule A). v1.1: zip command uses full path to Windows tar.
 - M0-L3 v1.1 — Step 2: use Intuit's default US sandbox. Step 5: card must include the click path to open the company.
 - M1-L1 v1.1 — Steps 5/6 swapped (lists first, then categorize once with projects). Step 2 cut to Projects only. Cash basis for the case.
+- M1-L1 v1.2 — 1099-NEC threshold $600 → $2,000. v1.3 — fake monthly PDF bank statements. v1.4 — files moved into client-job folder SOP (`data/practice/fake-builders/`). v1.5 — Step 6 split: 6A rules, 6B trap questions before posting; trap (d) skipped (Rule A).

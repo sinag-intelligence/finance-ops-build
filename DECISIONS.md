@@ -4,7 +4,7 @@
 > Every AI session reads this file first. Add new decisions at the bottom of each section, with a date.
 > Never delete a decision. If it changes, mark the old one `SUPERSEDED` and add the new one.
 
-Last updated: 2026-10-28
+Last updated: 2026-11-08
 
 ---
 
@@ -26,9 +26,11 @@ Last updated: 2026-10-28
 
 ## 3. Time
 
-- **2026-10-03** — At least **20 hours per week**.
+- **2026-10-03** — `SUPERSEDED 2026-11-08` At least **20 hours per week**.
 - **2026-10-03** — Default weekly split: 8h learn · 8h build · 4h clients + content + product. The Learning Assessor may change this split (see `learning/LEARNER_STATE.md`).
 - **2026-10-03** — First cycle: **12 weeks** (~240 hours).
+- **2026-11-08** — (Hours check) Weekly target is now **15 hours**. Reason: actual hours were ~3.1 (week 4) and ~1 (week 5) against 20. A target Ken can hit beats one missed every week. Session rhythm (§6, every 2 days) stays.
+- **2026-11-08** — Split for 15h: **5h learn + build · 6h clients** (applications, DMs, helpful replies) **· 4h content**. Earn-first order stays (§1, §4).
 
 ## 4. Clients and regions
 
@@ -70,6 +72,12 @@ Last updated: 2026-10-28
 - **2026-10-17** — Session rhythm: **short sessions, often**. At least one session every **2 days**, even 30 min. Reason: a 12-day gap after session 1 caused most Git basics to be forgotten. Weekly target stays **20 hours**.
 - **2026-10-27** — **Just-in-time learning.** The curriculum is a reference list, not a gate before selling. Learn a topic only when a real client task or sales asset needs it this week.
 - **2026-10-27** — Hours check on **Sunday 2026-11-01**: if weekly hours have not improved, lower the target to a real minimum (proposed 8h/week).
+- **2026-10-29** — **Grounded checks.** Claude's own knowledge is not enough to grade accounting, QBO, or tax work. Three layers:
+  1. **Numbers** are checked against an **answer key built by a script** from the fake data (`data/practice/answer_keys/`). Exact match, no opinion.
+  2. **Rules** are checked against a cited source: **IRS.gov** (tax), **Intuit QuickBooks Help** (QBO steps), **OpenStax *Principles of Accounting, Vol. 1*** (concepts). No source → Claude says so.
+  3. **External expert check:** **QuickBooks ProAdvisor certification** (Intuit's official training + exam). Also a badge for Upwork.
+  Reason: the lesson had an out-of-date 1099-NEC threshold ($600; now $2,000 for 2026 payments). Found 2026-10-29.
+- **2026-11-04** — **Client-job folder SOP** for every practice and client job: job sheet (`README.md`) + `01_from_client/` (never edit) · `02_requests/` (missing items + questions) · `03_working/` · `04_deliverables/`. Shared template: `data/practice/_templates/client-job/`. Practice data must look like real source docs (e.g. monthly **PDF bank statements**, not only a CSV). Make it a skill (`client-intake`) after **3 uses** (§7 rule). Reason: Ken wants the real working habit before the first paid job.
 
 ## 7. AI stack and setup
 
@@ -101,6 +109,7 @@ Last updated: 2026-10-28
 - **2026-10-03** — Content angle: "How to become an AI-native bookkeeper."
 - **2026-10-27** — PDF guide **waits until after the first paid client** (it sells on real proof).
 - **2026-10-27** — Two audiences: contractors get **helpful replies** (§8) + a pinned case study; Filipino freelancers get **2 short build-in-public posts/week** (same post on Facebook + LinkedIn), topics picked from trends and scan numbers.
+- **2026-11-08** — **Search-led topics.** Each week pick the 2 post topics from real search questions: Google Trends (relative interest only; thin for niche terms) + Google "People also ask" + questions seen in the lead-signals scan (Reddit, Intuit QuickBooks Community). Platforms stay **LinkedIn + Facebook**; YouTube / Instagram only after the first paid client. Every post comes from something Ken really did ("true today?" check). Reason: Ken wants posting to start now; posts are slow for clients, so they support applications + DMs, not replace them.
 - **2026-10-03** — Use the JHU "AI and Agentic AI in Finance" brochure as **inspiration only**. Do not copy its text or curriculum. Notes in `docs/JHU_NOTES.md`.
 
 ## 10. Open questions
