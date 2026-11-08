@@ -39,7 +39,7 @@ Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
 - QBO-02 (mastery 1) — 2026-11-09 — covered by Step 7 (reconcile uses the accounts). No separate drill.
 - ACC-01, QBO-03 (mastery 2) — 2026-11-11 — covered by Step 7 (reconcile) if done by then; else a 5-min drill: categorize 3 new trap lines.
 - TECH-03 (VS Code) — 2026-10-31 — (mastery 3) multi-part card/file: check file vs instruction line by line before "done" (Rule B extra variant)
-- TECH-01 (Git) — 2026-11-03 — (mastery 3) commit loop with a twist: commit only one of two changed files
+- TECH-01 (Git) — 2026-12-08 — (mastery 4) teach level: explain to a beginner why you would commit one file alone
 - AI-01 (Claude setup) — 2026-11-04 — (mastery 3) NEW twist (one-home decision 2026-10-28): run lead signals in Claude Code, and move one useful result into the right repo file
 - QBO-01 (QBO sandbox) — 2026-11-11 — (mastery 3) update the sandbox card with the Fake Builders LLC company + Clear data and reset path
 - TECH-02 (terminal) — 2026-11-25 — (mastery 4) explain a command's output to a beginner (teach level)
