@@ -1,4 +1,4 @@
-# M1-L1 — Fake Builders LLC: catch-up in QBO (v1.5)
+# M1-L1 — Fake Builders LLC: catch-up in QBO (v1.6)
 
 **Skills:** QBO-02, QBO-03, QBO-04, QBO-05, ACC-01, ACC-02 (+ TECH-03 for files)
 **Default level:** Guided (mastery 1) for accounting, New for QBO-02 to QBO-05
@@ -108,7 +108,12 @@ No clicks. In your own words, for each line, say **income, expense, or neither**
 **Check:** Pending (older name: For review) = 0. Tell me the traps you found and what you did with each. Then Project profitability: income and costs per project.
 
 ### Step 7 — Reconcile Aug, Sep, Oct (~40 min)
-Reconcile Business Checking month by month with the table above.
+Reconcile Business Checking month by month. Take the dates and ending balances from the **PDF statements** (the proof), not the table.
+
+1. Before ticking: check the beginning balance = last month's ending balance.
+2. QBO **pre-ticks** lines that came in by feed/CSV. That is a guess. Check every tick against the PDF.
+3. **Bank fact vs client question.** Reconcile only asks "did the bank do it?" A line on the statement is ticked, even if you have a question about it (e.g. the 09/09 duplicate). Questions go to `02_requests/`.
+4. Optional: test QBO's AI reconcile on one month, then check every AI tick against the PDF. Note what it did (case-study line).
 
 **Check:** difference = $0.00 for each month. Tell me what you fixed if it wasn't 0.
 
@@ -140,3 +145,4 @@ Write the before → after story in your own words. Then run `build-to-content`.
 - v1.3 — 2026-11-04 — Added fake monthly PDF bank statements (script-made from the CSV). Ken asked for real-life source docs instead of a table in the lesson.
 - v1.4 — 2026-11-04 — Files moved into the client-job folder SOP (`data/practice/fake-builders/`). Owner project list also saved as `01_from_client/owner_notes.md`. Write trap notes in `03_working/`, client questions in `02_requests/requests.md`.
 - v1.5 — 2026-11-08 — Step 6 run as 6A (bank rules) + 6B (trap questions one by one, client question in `02_requests/`, then post). Trap (d) draw/transfer skipped after two `U` (Rule A; already sorted 4/4 in Step 3). Idea for Step 9: show how the duplicate changes Ortiz Bath profit.
+- v1.6 — 2026-11-09 — Step 7: PDF as proof, pre-tick check, bank fact vs client question box (Ken left the Sep duplicate unticked as open; 2nd time on this trap), optional AI-reconcile test (Ken tested it on Oct and checked every tick).

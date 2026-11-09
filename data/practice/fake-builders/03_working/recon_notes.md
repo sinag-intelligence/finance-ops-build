@@ -1,0 +1,1 @@
+- In "Reconcile" tab/window, QBO pre-ticked lines should not be accepted automatically, because QBO only assumes they're on the statement and while that's right mostly, a line can come in by feed and still not be on the month's statement (eg. check hasn't cleared yet).

@@ -78,6 +78,7 @@ Last updated: 2026-11-08
   3. **External expert check:** **QuickBooks ProAdvisor certification** (Intuit's official training + exam). Also a badge for Upwork.
   Reason: the lesson had an out-of-date 1099-NEC threshold ($600; now $2,000 for 2026 payments). Found 2026-10-29.
 - **2026-11-04** — **Client-job folder SOP** for every practice and client job: job sheet (`README.md`) + `01_from_client/` (never edit) · `02_requests/` (missing items + questions) · `03_working/` · `04_deliverables/`. Shared template: `data/practice/_templates/client-job/`. Practice data must look like real source docs (e.g. monthly **PDF bank statements**, not only a CSV). Make it a skill (`client-intake`) after **3 uses** (§7 rule). Reason: Ken wants the real working habit before the first paid job.
+- **2026-11-08** — **Roleplay setup** for practice jobs. Ken plays only the freelance bookkeeper. Claude holds the other roles, tagged **[COACH]** / **[CLIENT]** / **[REVIEWER]**. The client only answers written requests (`02_requests/`), by a reply file in `01_from_client/`. A hidden client-truth file per job. Roleplay strength follows mastery: skills at 0–1 get coach hints during a step; skills at 2+ are client/reviewer only, with a [COACH] debrief after. Reason: roles blurred in M1-L1 Step 7. Note: the Step 7 slip itself was a concept gap (bank fact vs client question), not a role gap.
 
 ## 7. AI stack and setup
 

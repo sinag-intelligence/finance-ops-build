@@ -16,6 +16,7 @@ flowchart LR
   C --> G["Excluded tab"]
   C --> H["Upload transactions<br/>(CSV file)"]
   B --> I["Rules<br/>(New rule or Edit)"]
+  B --> D["Reconcile"]
 ```
 
 | I want to...             | Click path                                                                   | Found      |
@@ -23,7 +24,7 @@ flowchart LR
 | Categorize bank lines    | All apps → Accounting → Bank transactions → **Pending** tab                  | 2026-10-29 |
 | Undo a posted line       | All apps → Accounting → Bank transactions → Posted → Action → Undo           | 2026-10-29 |
 | Make or edit a bank rule | All apps → Accounting → Rules → New rule (make new rule) or Edit (edit rule) | 2026-10-29 |
-|                          |                                                                              |            |
+| Reconcile a bank account | All apps → Accounting → Reconcile                                            | 2026-11-08 |
 
 ## Screenshots
 

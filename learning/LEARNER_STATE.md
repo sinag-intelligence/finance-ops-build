@@ -6,10 +6,10 @@
 ## Status
 - **Week:** 6 of 12 by calendar (week 1 started 2026-10-03; week 6 from 2026-11-07). Weekly review done 2026-10-26 (20h/week kept). **Hours check done 2026-11-08: target now 15h/week** (DECISIONS §3).
 - **Module:** M1 (just-in-time, contractor case study). M0 gate passed 2026-10-27. Sprint Oct 28 – Nov 10.
-- **Current lesson:** M1-L1 Fake Builders LLC catch-up (v1.5). Steps 1–6 done. **Next: Step 7** (reconcile Aug, Sep, Oct).
-- **Hours:** week 4 ~3.1 / 20. Week 5 (10-31 to 11-06) ~1.0 (session 10 part 1 on 11-04, minutes not tracked — guess). Week 6 (from 11-07): ~0.8 (session 10 part 2, 11-07/08).
-- **Total hours:** ~9.3 / ~240
-- **Sessions done:** 10
+- **Current lesson:** M1-L1 Fake Builders LLC catch-up (v1.6). Steps 1–7 done. **Next: Step 8** (reports for owner + CPA), first job under the new roleplay setup (DECISIONS §6, 2026-11-08).
+- **Hours:** week 4 ~3.1 / 20. Week 5 (10-31 to 11-06) ~1.0 (session 10 part 1 on 11-04, minutes not tracked — guess). Week 6 (from 11-07): ~2.5 (session 10 part 2 ~0.8; session 11 on 11-08/09 ~1.7 — Step 7 45 min + reviews, cards, roleplay decision).
+- **Total hours:** ~11.0 / ~240
+- **Sessions done:** 11
 
 ## Starting point (no pre-test)
 - Accounting graduate (2005), never practised → accounting lessons start at **Guided** level and move up fast if results are strong.
@@ -20,14 +20,15 @@
 ## This week's hour split
 | Area | Planned | Done |
 |---|---|---|
-| Learn + build | 5 | 0.8 |
+| Learn + build | 5 | 2.5 |
 | Clients | 6 | 0 |
 | Content | 4 | 0 |
 
 ## Next up
 Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
 1. **Before Nov 10 (sprint end):** Upwork profile + Sinag line (in Claude Code; own words first) · first weekly lead-signal scan · apply to contractor cleanup jobs. Sprint outputs (applications, DMs, posts) are not recorded in any file yet — ask Ken.
-2. M1-L1 **Step 7** (reconcile) → Steps 8–9 (case study; use the Ortiz insight below).
+2. M1-L1 **Step 8** (reports) → Step 9 (case study; use the Ortiz insight + the AI-reconcile check below). Before Step 8: Claude sets up the roleplay for Fake Builders (hidden client-truth file; [CLIENT] reply to requests #1–4 as a file in `01_from_client/`).
+2b. AI-01 review (overdue since 11-04) = run the first weekly lead-signal scan in Claude Code as a **client block** (Ken agreed 2026-11-08).
 3. Content: 2 posts/week, topics picked from search questions (DECISIONS §9, 2026-11-08). Split 5 learn+build · 6 clients · 4 content.
 3. Week 2: finish case study + record 2-min demo · 10 helpful replies · 20 DMs · 5 more applications.
 4. Content: 2 short posts per week (Facebook + LinkedIn).
@@ -36,12 +37,13 @@ Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
 (M0 step 6 browser scan done 2026-10-27: Facebook read, Reddit blocked for the browser tool.)
 
 ## Skills due for review
-- QBO-02 (mastery 1) — 2026-11-09 — covered by Step 7 (reconcile uses the accounts). No separate drill.
-- ACC-01, QBO-03 (mastery 2) — 2026-11-11 — covered by Step 7 (reconcile) if done by then; else a 5-min drill: categorize 3 new trap lines.
-- TECH-03 (VS Code) — 2026-10-31 — (mastery 3) multi-part card/file: check file vs instruction line by line before "done" (Rule B extra variant)
+- QBO-02 (mastery 1) — 2026-11-09 — not really tested by Step 7. 5-min drill next session: find + fix one chart-of-accounts issue in the sandbox.
+- ACC-01, QBO-03 (mastery 2) — 2026-11-11 — 5-min drill: categorize 3 new trap lines, **full roleplay** (mastery 2+ → no coach hints during the drill).
+- ACC-02, QBO-04 (mastery 2) — 2026-11-12 — 5-min drill: one month reconcile with a line that is NOT on the statement (uncleared check). Twist on the Sep slip: open item vs client question.
+- TECH-03 (VS Code) — 2026-11-16 — (mastery 3) open a card and find + edit a block without asking where it is (Rule B: two H in a row)
 - TECH-01 (Git) — 2026-12-08 — (mastery 4) teach level: explain to a beginner why you would commit one file alone
 - AI-01 (Claude setup) — 2026-11-04 — (mastery 3) NEW twist (one-home decision 2026-10-28): run lead signals in Claude Code, and move one useful result into the right repo file
-- QBO-01 (QBO sandbox) — 2026-11-11 — (mastery 3) update the sandbox card with the Fake Builders LLC company + Clear data and reset path
+- QBO-01 (QBO sandbox) — 2026-11-23 — (mastery 3) explain to a beginner why a sandbox needs "Clear data and reset" and when NOT to use it (teach level)
 - TECH-02 (terminal) — 2026-11-25 — (mastery 4) explain a command's output to a beginner (teach level)
 
 ## Assessor notes
@@ -71,10 +73,11 @@ Sprint Oct 28 – Nov 10 (DECISIONS §4). Learning is just-in-time.
 - 2026-10-29 — Session 9 (M1-L1 Step 6A + QBO map card): 2 bank rules OK after undoing an auto-post mistake (1 hint). Asked how checks are grounded → led to the Grounded checks decision (DECISIONS §6) and the 1099 threshold fix. Session not closed that day; state written 2026-11-04.
 - 2026-11-04 — Session 10: Ken asked for **real-life source docs** (PDF statements, not a table in the lesson) and a **client-job folder SOP** (from_client / requests / working / deliverables). Both built; DECISIONS §6 2026-11-04. Strong professional instinct — thinking like a practitioner, not a student. Trap scan before clicking: found duplicate + return unaided; missed ToolRent projects that were in the list (exactness pattern: read the given list line by line).
 - 2026-11-08 — Session 10 part 2 (Step 6B): trap (a) duplicate kept correctly; client question first blamed the bank and assumed the answer, fixed after 1 hint. Traps (b) return + (c) ToolRent `U` in 5 min each, every part answered + minutes given unasked (habit improving). Posted 44 lines, project profitability exact to the cent in 15 min (half the estimate). Pattern still seen once: said "receipts" in chat, not in the file. Business insight to reuse: the duplicate decides if Ortiz Bath is a loss (−308.99) or a profit (+896.45 if refunded).
+- 2026-11-09 — Session 11 (reviews + M1-L1 Step 7). Reconcile Aug/Sep/Oct all $0.00 in 45 min (est 40). Strong reviewer instinct: did not trust QBO pre-ticks, un-ticked all and checked line by line vs PDF; tested QBO AI reconcile on Oct and checked every AI tick. Slip: left the Sep duplicate unticked as "open" (client question ≠ bank fact) — 2nd time on this trap after 6B-a, so it is a concept gap. Exactness pattern again on cards: replaced a line instead of adding. Ken raised role confusion (learner vs bookkeeper) → roleplay decision (DECISIONS §6, 2026-11-08). Ken accepted the critique that the slip was concept, not role.
 
 ## Lesson revisions so far
 - M0-L1 v1 — live adapt: Steps 3+4 merged into one real task (Rule A, two `U` in a row).
 - M0-L2 v1 — live adapt: Project already existed, so Steps 2+3 merged into one sync step; only the changed skill zip rebuilt (Rule A). v1.1: zip command uses full path to Windows tar.
 - M0-L3 v1.1 — Step 2: use Intuit's default US sandbox. Step 5: card must include the click path to open the company.
 - M1-L1 v1.1 — Steps 5/6 swapped (lists first, then categorize once with projects). Step 2 cut to Projects only. Cash basis for the case.
-- M1-L1 v1.2 — 1099-NEC threshold $600 → $2,000. v1.3 — fake monthly PDF bank statements. v1.4 — files moved into client-job folder SOP (`data/practice/fake-builders/`). v1.5 — Step 6 split: 6A rules, 6B trap questions before posting; trap (d) skipped (Rule A).
+- M1-L1 v1.2 — 1099-NEC threshold $600 → $2,000. v1.3 — fake monthly PDF bank statements. v1.4 — files moved into client-job folder SOP (`data/practice/fake-builders/`). v1.5 — Step 6 split: 6A rules, 6B trap questions before posting; trap (d) skipped (Rule A). v1.6 — Step 7: PDF as proof, pre-tick warning, bank fact vs client question box, optional AI-reconcile test.
